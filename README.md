@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/87962947/157651462-49b4c2be-7f33-425d-b919-6ac031026bc3.gif" style="width: 60px;">
 
 # 안녕하세요 박찬호 입니다!
 <br>
